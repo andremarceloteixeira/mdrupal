@@ -12,7 +12,9 @@ C) Using module, tracking , GA.
 D) Created table data , and data.php for save this part...
 
 
-URL SITE HOSTED : http://mdrupal.comli.com
+URL SITE HOSTED : http://drupalm.x10host.com/
+
+DATABASE : https://xo5.x10hosting.com:2083 
 
 GITHUB :  https://github.com/andremarceloteixeira/mdrupal
 
