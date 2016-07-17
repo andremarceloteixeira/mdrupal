@@ -249,11 +249,11 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'drupal7',
-      'username' => 'adminP3F9W3q',
-      'password' => 'A72QJSQ2i2I7',
-      'host' => $OPENSHIFT_MYSQL_DB_HOST,
-      'port' => $OPENSHIFT_MYSQL_DB_PORT,
+      'database' => 'codemdrupal',
+      'username' => 'adminCh5EPww',
+      'password' => 'naEKzU2AVIbk',
+      'host' => getenv("OPENSHIFT_MYSQL_DB_HOST"),
+      'port' => getenv("OPENSHIFT_MYSQL_DB_PORT");,
       'driver' => 'mysql',
       'prefix' => '',
     ),
